@@ -44,7 +44,7 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
+							Thank you for your interest in contacting
 							me. I welcome your feedback, questions, and
 							inquiries. If you have a specific question or
 							comment, please feel free to email me directly at
