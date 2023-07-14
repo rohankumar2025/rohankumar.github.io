@@ -31,7 +31,7 @@ const INFO = {
 	},
 
 	articles: {
-		title: "Software education should be accessible to anyone!",
+		title: "Making Software Engineering More Accessible",
 		description:
 			"Chronological collection of my detailed and digestible explanations of my personal projects and practical applications of new technologies.",
 	},
