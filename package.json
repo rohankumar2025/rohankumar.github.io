@@ -1,12 +1,12 @@
 {
-	"homepage": "rohankumar.info",
+	"homepage": "rohankumar2025.github.io",
 	"name": "Rohan-Kumar-Portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio built using Reactjs",
 	"author": {
 		"name": "Rohan Kumar",
 		"email": "rohankumar@ucsb.edu",
-		"url": "rohankumar.info"
+		"url": "rohankumar2025.github.io"
 	},
 	"license": "MIT",
 	"private": true,
