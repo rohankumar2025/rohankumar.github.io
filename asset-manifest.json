@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/www.rohankumar.info/static/css/main.a7c15af5.css",
-    "main.js": "/www.rohankumar.info/static/js/main.ce96d9d8.js",
+    "main.js": "/www.rohankumar.info/static/js/main.0789e80e.js",
     "index.html": "/www.rohankumar.info/index.html",
     "main.a7c15af5.css.map": "/www.rohankumar.info/static/css/main.a7c15af5.css.map",
-    "main.ce96d9d8.js.map": "/www.rohankumar.info/static/js/main.ce96d9d8.js.map"
+    "main.0789e80e.js.map": "/www.rohankumar.info/static/js/main.0789e80e.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c15af5.css",
-    "static/js/main.ce96d9d8.js"
+    "static/js/main.0789e80e.js"
   ]
 }
