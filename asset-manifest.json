@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rohankumar2025.github.io/static/css/main.a7c15af5.css",
-    "main.js": "/rohankumar2025.github.io/static/js/main.197a9754.js",
-    "index.html": "/rohankumar2025.github.io/index.html",
-    "main.a7c15af5.css.map": "/rohankumar2025.github.io/static/css/main.a7c15af5.css.map",
-    "main.197a9754.js.map": "/rohankumar2025.github.io/static/js/main.197a9754.js.map"
+    "main.css": "/static/css/main.a7c15af5.css",
+    "main.js": "/static/js/main.87b48401.js",
+    "index.html": "/index.html",
+    "main.a7c15af5.css.map": "/static/css/main.a7c15af5.css.map",
+    "main.87b48401.js.map": "/static/js/main.87b48401.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c15af5.css",
-    "static/js/main.197a9754.js"
+    "static/js/main.87b48401.js"
   ]
 }
